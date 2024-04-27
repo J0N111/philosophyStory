@@ -1,0 +1,38 @@
+* {
+   overflow: hidden;
+}
+
+html {
+   background-color: darkslategray;
+   margin: 50px;
+}
+
+body {
+   background-color: darkslategray;
+}
+
+h1 {
+   font-family: "Josefin Sans", sans-serif;
+   font-size: 3rem;
+   text-justify: distribute;
+   color: rgb(255, 248, 238);
+}
+
+p {
+   font-family: "Rubik", sans-serif;
+   font-size: 2rem;
+   color: blanchedalmond;
+}
+
+spacer {
+   margin-top: 5px;
+   margin-bottom: 5px;
+}
+
+.arrowBlink {
+   width: 100px;
+   transition: transform .2s;
+}
+.arrowBlink:hover {
+   transform: scale(1.2);
+}
