@@ -3,8 +3,8 @@
 }
 
 html {
-   width: 100%;
-   height: 100%;
+   width: 90%;
+   height: 90%;
    background: url("../img/grid.gif") center/110% no-repeat;
 }
 
@@ -14,7 +14,7 @@ body {
 
 h1 {
    font-family: "Josefin Sans", sans-serif;
-   font-size: 3rem;
+   font-size: 2rem;
    text-justify: distribute;
    color: rgb(255, 248, 238);
    position: absolute;
