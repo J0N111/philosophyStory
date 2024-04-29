@@ -3,9 +3,9 @@
 }
 
 html {
-   width: 90%;
-   height: 90%;
-   background: url("../img/grid.gif") center/110% no-repeat;
+   width: 50%;
+   height: 50%;
+   background: url("../img/grid.gif") center/100% no-repeat;
 }
 
 body {
